@@ -296,7 +296,7 @@ class Graph
 }
 
 
-namespace tsp
+namespace hamiltonian
 {
     class Program
     {
