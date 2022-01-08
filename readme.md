@@ -5,4 +5,4 @@ Hamiltonian circuit is a path that travels through each vertex and returns to sa
 
 # Sample Output
 
-![Output](https://github.com/nexhua/Hamiltonian-Circuits/tree/main/hamiltonian/output.png)
+![Output](https://github.com/nexhua/Hamiltonian-Circuits/blob/main/hamiltonian/output.png)
